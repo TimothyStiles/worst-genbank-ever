@@ -10,4 +10,6 @@ To help create something that shouldn't exist:
 * profit
 
 
-With enough additions we'll have created a kafka-esque leviathan remembered by bioinformaticians for generations to come. The worst. genbank. ever.
+With enough additions we'll have created a kafka-esque leviathan remembered by bioinformaticians for generations to come. 
+
+worst. genbank. ever.
