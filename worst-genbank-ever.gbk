@@ -72,6 +72,7 @@ COMMENT     Bacteria and source DNA available from SRC AMB.
             Pseudo Genes (multiple problems)  :: 32 of 188
             CRISPR Arrays                     :: 2
             ##Genome-Annotation-Data-END##
+
 FEATURES             Location/Qualifiers
      source          1..2992
                      /organism="Synechococcus elongatus PCC 7942 = FACHB-805"
@@ -118,6 +119,7 @@ FEATURES             Location/Qualifiers
                      /translation="MTSAITEQLLKAKKAKGITFTELEQLLGRDEVWIASVFYRQSTA
                      SPEEAEKLLTALGLDLALADELTTPPVKGCLEPVIPTDPLIYRFYEIMQVYGLPLKDV
                      IQEKFGDGIMSAIDFTLDVDKVEDPKGDRVKVTMCGKFLAYKKW"
+BASE COUNT    67070277 a   48055043 c   48111528 g   67244164 t   18475410 n
 ORIGIN      
         1 ctgcagccgc cgactgaaat ctatcgggaa gaaaagctcg cttacgacac ctttaacccg
        61 caggatccag tcgcttacct cgcatctcaa aagcagaaat acgggagata aacacaactt
