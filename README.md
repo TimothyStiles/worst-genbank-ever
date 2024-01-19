@@ -6,7 +6,7 @@ To help create something that shouldn't exist:
 
 * [fork this repo](https://github.com/TimothyStiles/worst-genbank-ever/fork)
 * add some terrible features that are still [valid genbank](https://www.insdc.org/files/feature_table.html) to `worst-genbank-ever.gbk`
-* make a pull-request
+* make a pull request
 * profit
 
 
